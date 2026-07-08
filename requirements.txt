@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+emoatlas @ git+https://github.com/MassimoStel/emoatlas
+spacy
+nltk
