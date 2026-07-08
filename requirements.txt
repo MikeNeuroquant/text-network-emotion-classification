@@ -6,6 +6,8 @@ seaborn
 scipy
 statsmodels
 scikit-learn
+xgboost
+shap
 emoatlas @ git+https://github.com/MassimoStel/emoatlas
 spacy
 nltk
