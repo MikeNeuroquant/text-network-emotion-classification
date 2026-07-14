@@ -1,4 +1,4 @@
-# Modeling Text as a Network to Compare How Two Groups Write
+# Modeling Text as a Network to Compare How Two Groups Write (LLM text generated, forma mentis network and machine psychology)
 
 **In plain terms**: this project turns short pieces of text into networks, words become nodes, the connections between them become edges, and compares the shape of those networks between two groups of writers. It also checks whether that network shape, plus the emotional tone of the text, can predict which group a new piece of text belongs to. Crucially, when the prediction turns out suspiciously good, it stops and checks *why* before reporting it as a win.
 
